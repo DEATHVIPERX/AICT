@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
     <header class="cyber-header">
     <nav class="navbar navbar-expand-lg container">
         <a class="navbar-brand" href="index.html" style="color: #00ff00;">Tech Realm</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" style="color:rgb(19, 255, 19);" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             ☰
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
